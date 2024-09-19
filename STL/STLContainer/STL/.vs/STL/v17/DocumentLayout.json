@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkSpace\\C\u002B\u002B\\STL\\STLContainer\\STL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5909D3C-EFD7-4311-B632-2C9607221B50}|scracth_stl_vector\\scracth_stl_vector.vcxproj|C:\\WorkSpace\\C\u002B\u002B\\STL\\STLContainer\\STL\\scracth_stl_vector\\scracth_stl_vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5909D3C-EFD7-4311-B632-2C9607221B50}|scracth_stl_vector\\scracth_stl_vector.vcxproj|solutionrelative:scracth_stl_vector\\scracth_stl_vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scracth_stl_vector.cpp",
+              "DocumentMoniker": "C:\\WorkSpace\\C\u002B\u002B\\STL\\STLContainer\\STL\\scracth_stl_vector\\scracth_stl_vector.cpp",
+              "RelativeDocumentMoniker": "scracth_stl_vector\\scracth_stl_vector.cpp",
+              "ToolTip": "C:\\WorkSpace\\C\u002B\u002B\\STL\\STLContainer\\STL\\scracth_stl_vector\\scracth_stl_vector.cpp",
+              "RelativeToolTip": "scracth_stl_vector\\scracth_stl_vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T06:45:05.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
