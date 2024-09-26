@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\WorkSpace\\C\u002B\u002B\\Scrath\\",
+  "WorkspaceRootPath": "C:\\WorkSpace\\C\u002B\u002B\\Learnde\\Scrath\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C687F2AA-6FD0-4A68-8C2C-65B27564DF2A}|Scrath_00\\Scrath_00.vcxproj|C:\\WorkSpace\\C\u002B\u002B\\Scrath\\Scrath_00\\Scrath_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C687F2AA-6FD0-4A68-8C2C-65B27564DF2A}|Scrath_00\\Scrath_00.vcxproj|C:\\WorkSpace\\C\u002B\u002B\\Learnde\\Scrath\\Scrath_00\\Scrath_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C687F2AA-6FD0-4A68-8C2C-65B27564DF2A}|Scrath_00\\Scrath_00.vcxproj|solutionrelative:Scrath_00\\Scrath_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Scrath_00.cpp",
-              "DocumentMoniker": "C:\\WorkSpace\\C\u002B\u002B\\Scrath\\Scrath_00\\Scrath_00.cpp",
+              "DocumentMoniker": "C:\\WorkSpace\\C\u002B\u002B\\Learnde\\Scrath\\Scrath_00\\Scrath_00.cpp",
               "RelativeDocumentMoniker": "Scrath_00\\Scrath_00.cpp",
-              "ToolTip": "C:\\WorkSpace\\C\u002B\u002B\\Scrath\\Scrath_00\\Scrath_00.cpp",
+              "ToolTip": "C:\\WorkSpace\\C\u002B\u002B\\Learnde\\Scrath\\Scrath_00\\Scrath_00.cpp",
               "RelativeToolTip": "Scrath_00\\Scrath_00.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
